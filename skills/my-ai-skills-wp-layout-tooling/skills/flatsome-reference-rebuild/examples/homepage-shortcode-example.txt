@@ -1,0 +1,55 @@
+[section class="home-hero" padding="80px 0px"]
+  [ux_banner height="620px" bg="__REPLACE_HERO_IMAGE_ID__" bg_overlay="rgba(0,0,0,.35)"]
+    [text_box width="55" position_x="10" position_y="50"]
+      <h1>Your Original Headline Here</h1>
+      <p>Your original subheadline goes here. Keep it short and benefit-focused.</p>
+      [button text="Shop Now" link="/shop/" style="primary" radius="99"]
+      [button text="Learn More" link="#features" style="outline" radius="99"]
+    [/text_box]
+  [/ux_banner]
+[/section]
+
+[section class="benefit-strip" padding="35px 0px"]
+  [row]
+    [col span="4" span__sm="12"]
+      [featured_box img="__ICON_1__" pos="center"]
+        <h3>Benefit One</h3>
+        <p>Short description.</p>
+      [/featured_box]
+    [/col]
+    [col span="4" span__sm="12"]
+      [featured_box img="__ICON_2__" pos="center"]
+        <h3>Benefit Two</h3>
+        <p>Short description.</p>
+      [/featured_box]
+    [/col]
+    [col span="4" span__sm="12"]
+      [featured_box img="__ICON_3__" pos="center"]
+        <h3>Benefit Three</h3>
+        <p>Short description.</p>
+      [/featured_box]
+    [/col]
+  [/row]
+[/section]
+
+[section class="product-showcase" padding="70px 0px"]
+  [row]
+    [col span="12" align="center"]
+      <h2>Featured Products</h2>
+      <p>Replace with your own product introduction.</p>
+    [/col]
+  [/row]
+  [ux_products columns="4" columns__sm="2" products="8" orderby="date"]
+[/section]
+
+[section class="final-cta" padding="70px 0px"]
+  [row]
+    [col span="8" span__sm="12"]
+      <h2>Ready to get started?</h2>
+      <p>Replace with your own CTA message.</p>
+    [/col]
+    [col span="4" span__sm="12" align="right"]
+      [button text="Contact Us" link="/contact/" style="primary" radius="99"]
+    [/col]
+  [/row]
+[/section]

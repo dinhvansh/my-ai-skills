@@ -1,0 +1,41 @@
+.home-hero h1 {
+  font-size: clamp(36px, 5vw, 72px);
+  line-height: 1.05;
+  margin-bottom: 18px;
+}
+
+.home-hero p {
+  font-size: clamp(16px, 2vw, 22px);
+  max-width: 620px;
+}
+
+.benefit-strip .featured-box {
+  padding: 24px;
+  border-radius: 18px;
+  transition: transform .25s ease, box-shadow .25s ease;
+}
+
+.benefit-strip .featured-box:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 40px rgba(0,0,0,.08);
+}
+
+.product-showcase .product-small {
+  border-radius: 18px;
+  overflow: hidden;
+}
+
+.final-cta {
+  border-radius: 24px;
+}
+
+@media (max-width: 849px) {
+  .home-hero .text-box {
+    width: 88% !important;
+  }
+
+  .final-cta,
+  .final-cta .col {
+    text-align: center !important;
+  }
+}
