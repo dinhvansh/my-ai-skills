@@ -1,0 +1,77 @@
+/* Flatsome Reference Rebuild - Example CSS */
+
+.frb-eyebrow {
+  margin-bottom: 10px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: .16em;
+  text-transform: uppercase;
+  opacity: .78;
+}
+
+.frb-hero h1 {
+  max-width: 760px;
+  font-size: clamp(38px, 5vw, 72px);
+  line-height: 1.04;
+  letter-spacing: -0.04em;
+}
+
+.frb-hero .lead {
+  max-width: 580px;
+  font-size: 18px;
+  line-height: 1.65;
+}
+
+.frb-section-desc {
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgba(0,0,0,.62);
+}
+
+.frb-trust .featured-box,
+.frb-categories .banner,
+.frb-products .product-small {
+  border-radius: 18px;
+  overflow: hidden;
+}
+
+.frb-trust .featured-box {
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 10px 26px rgba(0,0,0,.06);
+}
+
+.frb-categories .banner:hover,
+.frb-products .product-small:hover {
+  transform: translateY(-3px);
+  transition: transform .25s ease, box-shadow .25s ease;
+}
+
+.frb-cta {
+  border-radius: 0;
+}
+
+@media (max-width: 849px) {
+  .frb-hero h1 {
+    font-size: 42px;
+  }
+
+  .frb-hero .text-box {
+    width: 86% !important;
+  }
+
+  .frb-cta .col {
+    text-align: center !important;
+  }
+}
+
+@media (max-width: 549px) {
+  .frb-hero h1 {
+    font-size: 34px;
+  }
+
+  .frb-hero .lead {
+    font-size: 16px;
+  }
+}

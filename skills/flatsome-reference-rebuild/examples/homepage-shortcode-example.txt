@@ -1,0 +1,102 @@
+[section class="frb-hero" padding="0px"]
+  [ux_banner height="620px" bg="__REPLACE_HERO_IMAGE_ID__" bg_overlay="rgba(0,0,0,.38)"]
+    [text_box width="58" position_x="10" position_y="50"]
+      <p class="frb-eyebrow">NEW COLLECTION</p>
+      <h1>Build a Strong Homepage Headline Here</h1>
+      <p class="lead">Use this area for a short value proposition. Replace this placeholder with original business content.</p>
+      [button text="Shop Now" color="white" style="shade" link="#"]
+      [button text="Learn More" color="white" style="outline" link="#"]
+    [/text_box]
+  [/ux_banner]
+[/section]
+
+[section class="frb-trust" padding="35px"]
+  [row style="small" v_align="middle"]
+    [col span="3" span__sm="6"]
+      [featured_box img="__REPLACE_ICON_ID__" img_width="42"]
+        <h4>Fast Delivery</h4>
+        <p>Short benefit text.</p>
+      [/featured_box]
+    [/col]
+    [col span="3" span__sm="6"]
+      [featured_box img="__REPLACE_ICON_ID__" img_width="42"]
+        <h4>Original Products</h4>
+        <p>Short benefit text.</p>
+      [/featured_box]
+    [/col]
+    [col span="3" span__sm="6"]
+      [featured_box img="__REPLACE_ICON_ID__" img_width="42"]
+        <h4>Secure Payment</h4>
+        <p>Short benefit text.</p>
+      [/featured_box]
+    [/col]
+    [col span="3" span__sm="6"]
+      [featured_box img="__REPLACE_ICON_ID__" img_width="42"]
+        <h4>Support 24/7</h4>
+        <p>Short benefit text.</p>
+      [/featured_box]
+    [/col]
+  [/row]
+[/section]
+
+[section class="frb-categories" padding="70px"]
+  [row]
+    [col span="12" align="center"]
+      <p class="frb-eyebrow">CATEGORIES</p>
+      <h2>Explore Our Product Categories</h2>
+      <p class="frb-section-desc">Replace this with original category introduction.</p>
+    [/col]
+  [/row]
+  [row]
+    [col span="4" span__sm="12"]
+      [ux_banner height="340px" bg="__REPLACE_CATEGORY_IMAGE_ID__"]
+        [text_box position_x="50" position_y="85" width="85" text_align="center"]
+          <h3>Category One</h3>
+          [button text="View More" size="small" link="#"]
+        [/text_box]
+      [/ux_banner]
+    [/col]
+    [col span="4" span__sm="12"]
+      [ux_banner height="340px" bg="__REPLACE_CATEGORY_IMAGE_ID__"]
+        [text_box position_x="50" position_y="85" width="85" text_align="center"]
+          <h3>Category Two</h3>
+          [button text="View More" size="small" link="#"]
+        [/text_box]
+      [/ux_banner]
+    [/col]
+    [col span="4" span__sm="12"]
+      [ux_banner height="340px" bg="__REPLACE_CATEGORY_IMAGE_ID__"]
+        [text_box position_x="50" position_y="85" width="85" text_align="center"]
+          <h3>Category Three</h3>
+          [button text="View More" size="small" link="#"]
+        [/text_box]
+      [/ux_banner]
+    [/col]
+  [/row]
+[/section]
+
+[section class="frb-products" padding="70px" bg_color="#f8f8f8"]
+  [row]
+    [col span="12" align="center"]
+      <p class="frb-eyebrow">BEST SELLERS</p>
+      <h2>Featured Products</h2>
+    [/col]
+  [/row]
+  [row]
+    [col span="12"]
+      [ux_products columns="4" columns__sm="2" products="8" orderby="date"]
+    [/col]
+  [/row]
+[/section]
+
+[section class="frb-cta" padding="80px" bg_color="#111111"]
+  [row v_align="middle"]
+    [col span="8" span__sm="12"]
+      <h2 style="color:#fff">Ready to Start?</h2>
+      <p style="color:rgba(255,255,255,.75)">Replace this CTA copy with your own message.</p>
+    [/col]
+    [col span="4" span__sm="12" align="right"]
+      [button text="Contact Us" color="white" link="#"]
+    [/col]
+  [/row]
+[/section]
