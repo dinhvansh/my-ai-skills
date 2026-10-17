@@ -1,0 +1,3 @@
+name,url,purpose,transport,status
+"GhidraMCP","https://github.com/LaurieWired/GhidraMCP","MCP server tích hợp Ghidra để hỗ trợ reverse engineering","Cần xác minh theo README","Chưa thử"
+"FlowAgent / Power Automate Codex Ready","https://github.com/microsoft/power-platform-skills","Bundle đã gửi: Node.js stdio MCP FlowAgent + 9 skills; upstream link là nguồn skills tham chiếu, không mặc định là source của FlowAgent","stdio Node.js (theo ZIP đã phân tích)","Đã phân tích ZIP, chưa thử"
