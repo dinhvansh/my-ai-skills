@@ -1,6 +1,6 @@
 category,name,url,purpose,status
 "AI & Reverse Engineering","GhidraMCP","https://github.com/LaurieWired/GhidraMCP","Ghidra + MCP; reverse engineering","Chưa kiểm chứng"
-"AI & Reverse Engineering","REA","https://github.com/morluto/rea","Reverse engineering research","Chưa kiểm chứng"
+"AI & Reverse Engineering","REA","https://github.com/morluto/rea","AI/MCP reverse engineering cho binary, Electron, website, .NET; nghiên cứu chức năng ứng dụng và hỗ trợ Codex","Muốn thử"
 "AI & Reverse Engineering","NotebookLM Skill","https://github.com/PleasePrompto/notebooklm-skill","Agent workflows cho NotebookLM","Chưa kiểm chứng"
 "UI/UX & Visualization","AntV G6","https://github.com/antvis/G6","Graph/network visualization","Chưa kiểm chứng"
 "UI/UX & Visualization","AntV X6","https://github.com/antvis/X6","Workflow diagram editor","Đã nghiên cứu"
@@ -42,6 +42,6 @@ category,name,url,purpose,status
 "PDF & Workflow","E-Office","https://github.com/dinhvansh/e-office","Personal E-Office (link may be private)","Đã nhắc"
 "PDF & Workflow","E-Office Demo","https://github.com/dinhvansh/e-office-demo","Personal workflow/signing project (link may be private)","Đã nhắc"
 "PDF & Workflow","Signature Gateway","https://github.com/dinhvansh/flowdocker-signature-gateway","USB-token signature gateway (link may be private)","Đã nhắc"
-"Creative & DevTools","Recordly","https://github.com/webadderallorg/Recordly","Screen recording; URL cần kiểm chứng","Chưa kiểm chứng"
+"Creative & DevTools","Recordly","https://github.com/webadderallorg/Recordly","Open-source screen recorder/editor; auto-zoom, timeline; quay demo dashboard, Power Apps và video hướng dẫn","Muốn thử"
 "Creative & DevTools","VieNeu-TTS","https://github.com/pnnbao97/VieNeu-TTS","Vietnamese text to speech","Đã nghiên cứu"
 "Creative & DevTools","AI Novel Writing Assistant","https://github.com/dinhvansh/AI-Novel-Writing-Assistant","Personal AI writing project (link may be private)","Đã nhắc"
