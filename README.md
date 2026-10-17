@@ -90,3 +90,8 @@ PM / Owner approves final version
 ## Notes
 
 This repository is a living library. Add new skills as reusable folders under `skills/` and keep shared templates under `templates/`.
+
+## Curated GitHub, Skills & MCP Library
+
+- [Curated Developer Library](library/README.md): curated open-source tools, AI skills and MCP servers.
+- [GitHub / OSS](library/github/README.md) · [AI Skills](library/skills/README.md) · [MCP](library/mcp/README.md)
