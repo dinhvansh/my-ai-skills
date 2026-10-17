@@ -9,7 +9,7 @@
 | Dự án | Mô tả / Ứng dụng | Trạng thái |
 | --- | --- | --- |
 | [GhidraMCP](https://github.com/LaurieWired/GhidraMCP) | Ghidra + MCP; reverse engineering | Chưa kiểm chứng |
-| [REA](https://github.com/morluto/rea) | Reverse engineering research | Chưa kiểm chứng |
+| [REA](https://github.com/morluto/rea) | AI/MCP reverse engineering cho binary, Electron, website, .NET; nghiên cứu tính năng và hỗ trợ Codex | Muốn thử |
 | [NotebookLM Skill](https://github.com/PleasePrompto/notebooklm-skill) | Agent workflows cho NotebookLM | Chưa kiểm chứng |
 
 ## UI/UX & Visualization
@@ -76,7 +76,7 @@
 
 | Dự án | Mô tả / Ứng dụng | Trạng thái |
 | --- | --- | --- |
-| [Recordly](https://github.com/webadderallorg/Recordly) | Screen recording; URL cần kiểm chứng | Chưa kiểm chứng |
+| [Recordly](https://github.com/webadderallorg/Recordly) | Screen recorder/editor mã nguồn mở; auto-zoom, timeline; quay demo dashboard, Power Apps và hướng dẫn nội bộ | Muốn thử |
 | [VieNeu-TTS](https://github.com/pnnbao97/VieNeu-TTS) | Vietnamese text to speech | Đã nghiên cứu |
 | [AI Novel Writing Assistant](https://github.com/dinhvansh/AI-Novel-Writing-Assistant) | Personal AI writing project (link may be private) | Đã nhắc |
 
