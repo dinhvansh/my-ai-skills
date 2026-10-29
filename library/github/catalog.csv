@@ -45,3 +45,7 @@ category,name,url,purpose,status
 "Creative & DevTools","Recordly","https://github.com/webadderallorg/Recordly","Open-source screen recorder/editor; auto-zoom, timeline; quay demo dashboard, Power Apps và video hướng dẫn","Muốn thử"
 "Creative & DevTools","VieNeu-TTS","https://github.com/pnnbao97/VieNeu-TTS","Vietnamese text to speech","Đã nghiên cứu"
 "Creative & DevTools","AI Novel Writing Assistant","https://github.com/dinhvansh/AI-Novel-Writing-Assistant","Personal AI writing project (link may be private)","Đã nhắc"
+"AI & MCP Infrastructure","Archestra","https://github.com/archestra-ai/archestra","Enterprise MCP/LLM gateway, private registry, approval and agent governance; 2026-10-28 v1.4.9","Mới phát hiện 2026-10-29; nghiên cứu license"
+"AI & MCP Infrastructure","MCP TypeScript SDK v2","https://github.com/modelcontextprotocol/typescript-sdk","Official TypeScript MCP client/server SDK; v2.4.0 Skills over MCP (experimental)","Mới phát hiện 2026-10-29; thử lab"
+"Automation & Power Platform","Copilot Agent Kit","https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit","Agent Review, Agent Inventory, debugging, PowerShield and SharePoint synchronization","Mới phát hiện 2026-10-29; nghiên cứu"
+"Analytics & Monitoring","Betterlytics","https://github.com/betterlytics/betterlytics","Self-host web analytics/session replay; integrated MCP session metrics; uses ClickHouse","Mới phát hiện 2026-10-29; thử lab"
