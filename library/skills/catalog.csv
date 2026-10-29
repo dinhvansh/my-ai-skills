@@ -12,3 +12,4 @@ type,name,purpose,url,status
 "External","UI UX Pro Max Skill","UI/UX design skill","https://github.com/nextlevelbuilder/ui-ux-pro-max-skill","Chưa kiểm chứng"
 "Custom module","Chuyện Nhỏ Thôi Motif Log","Story motif log module, not standalone skill","Nội bộ; chưa nhập file gốc","Cần đồng bộ source"
 "External","ClickHouse Agent Skills","Schema, JOIN, incremental, SQL optimization","https://github.com/ClickHouse/agent-skills","Muốn thử"
+"External","Our World in Data Skill","AI tìm biểu đồ, lấy dữ liệu và trích dẫn nguồn OWID cho báo cáo","https://github.com/owid/skills","Mới phát hiện 2026-10-29; lưu tham khảo"
