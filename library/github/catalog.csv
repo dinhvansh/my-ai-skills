@@ -49,3 +49,6 @@ category,name,url,purpose,status
 "AI & MCP Infrastructure","MCP TypeScript SDK v2","https://github.com/modelcontextprotocol/typescript-sdk","Official TypeScript MCP client/server SDK; v2.4.0 Skills over MCP (experimental)","Mới phát hiện 2026-10-29; thử lab"
 "Automation & Power Platform","Copilot Agent Kit","https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit","Agent Review, Agent Inventory, debugging, PowerShield and SharePoint synchronization","Mới phát hiện 2026-10-29; nghiên cứu"
 "Analytics & Monitoring","Betterlytics","https://github.com/betterlytics/betterlytics","Self-host web analytics/session replay; integrated MCP session metrics; uses ClickHouse","Mới phát hiện 2026-10-29; thử lab"
+"AI & Generative UI","CopilotKit","https://github.com/CopilotKit/CopilotKit","React generative UI and human-in-the-loop for AI Report Builder; skills included","Mới phát hiện 2026-10-30; thử prototype"
+"PDF & Workflow","192d-Wing pdf-sign","https://github.com/192d-Wing/pdf-sign","Go remote-hash PAdES smart-card signing via Windows CNG bridge; reference for FlowDocker","Mới phát hiện 2026-10-30; chỉ nghiên cứu kiến trúc"
+"Database & Data Engineering","dbt-clickhouse","https://github.com/ClickHouse/dbt-clickhouse","Official ClickHouse dbt adapter; incremental/microbatch and experimental MV materialization","Mới phát hiện 2026-10-30; thử lab"
