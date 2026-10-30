@@ -13,3 +13,4 @@ type,name,purpose,url,status
 "Custom module","Chuyện Nhỏ Thôi Motif Log","Story motif log module, not standalone skill","Nội bộ; chưa nhập file gốc","Cần đồng bộ source"
 "External","ClickHouse Agent Skills","Schema, JOIN, incremental, SQL optimization","https://github.com/ClickHouse/agent-skills","Muốn thử"
 "External","Our World in Data Skill","AI tìm biểu đồ, lấy dữ liệu và trích dẫn nguồn OWID cho báo cáo","https://github.com/owid/skills","Mới phát hiện 2026-10-29; lưu tham khảo"
+"External","Trail of Bits differential-review","Security-focused PR/diff review; blast radius and test coverage","https://github.com/trailofbits/skills/blob/main/plugins/differential-review/skills/differential-review/SKILL.md","Mới phát hiện 2026-10-30; thử QA"
