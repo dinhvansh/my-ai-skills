@@ -14,3 +14,5 @@ type,name,purpose,url,status
 "External","ClickHouse Agent Skills","Schema, JOIN, incremental, SQL optimization","https://github.com/ClickHouse/agent-skills","Muốn thử"
 "External","Our World in Data Skill","AI tìm biểu đồ, lấy dữ liệu và trích dẫn nguồn OWID cho báo cáo","https://github.com/owid/skills","Mới phát hiện 2026-10-29; lưu tham khảo"
 "External","Trail of Bits differential-review","Security-focused PR/diff review; blast radius and test coverage","https://github.com/trailofbits/skills/blob/main/plugins/differential-review/skills/differential-review/SKILL.md","Mới phát hiện 2026-10-30; thử QA"
+"External","SigNoz Agent Skills","Skills for observability alerts, dashboards, incident diagnosis and ClickHouse telemetry queries","https://github.com/SigNoz/agent-skills","Mới phát hiện 2026-11-02; thử lab"
+"External","Taste Skill (design-taste-frontend)","Frontend/dashboard design skill with browser screenshot QA and anti-generic-UI checks","https://github.com/Leonxlnx/taste-skill","Mới phát hiện 2026-11-02; thử UI benchmark"
