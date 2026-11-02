@@ -2,3 +2,5 @@ name,url,purpose,transport,status
 "GhidraMCP","https://github.com/LaurieWired/GhidraMCP","MCP server tích hợp Ghidra để hỗ trợ reverse engineering","Cần xác minh theo README","Chưa thử"
 "FlowAgent / Power Automate Codex Ready","https://github.com/microsoft/power-platform-skills","Bundle đã gửi: Node.js stdio MCP FlowAgent + 9 skills; upstream link là nguồn skills tham chiếu, không mặc định là source của FlowAgent","stdio Node.js (theo ZIP đã phân tích)","Đã phân tích ZIP, chưa thử"
 "JDBC MCP Server (igorolv)","https://github.com/igorolv/jdbc-mcp-server","Read-only SQL Server/PostgreSQL/Oracle schema and query-plan exploration via JDBC","stdio Java 21","Mới phát hiện 2026-10-30; lab only"
+"SigNoz MCP Server","https://github.com/SigNoz/signoz-mcp-server","Read SigNoz metrics, traces, logs, alerts and dashboards for AI troubleshooting","HTTP or local server","Mới phát hiện 2026-11-02; thử lab"
+"MCP Task Orchestrator","https://github.com/jpicklyk/task-orchestrator","Persistent AI work items, dependency graph, server-enforced quality gates","stdio Docker or HTTP loopback","Mới phát hiện 2026-11-02; nghiên cứu Codex QA"
